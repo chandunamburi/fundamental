@@ -1,6 +1,6 @@
 package fundamental;
 import java.util.Scanner;
-public class fccs9 {
+public class fcs9 {
 	 public static void main(String args[])
 	 {
 	  Scanner s=new Scanner(System.in);
